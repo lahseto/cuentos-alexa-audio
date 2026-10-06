@@ -1,0 +1,20 @@
+[
+  {
+    "id": "duende-maloli",
+    "titulo": "El duende Malolí",
+    "archivo": "duende-maloli.mp3",
+    "url": "https://lahseto.github.io/cuentos-alexa-audio/duende-maloli.mp3",
+    "palabras_clave": [
+      "duende",
+      "maloli",
+      "limpieza",
+      "limpiaba",
+      "cosas",
+      "sitio",
+      "llaves",
+      "gafas",
+      "pareja"
+    ],
+    "duracion_seg": 217
+  }
+]
